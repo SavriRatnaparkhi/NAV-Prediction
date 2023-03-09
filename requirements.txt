@@ -1,0 +1,8 @@
+pandas
+matplotlib
+numpy
+statsmodels
+datetime
+pmdarima
+mftool
+streamlit
